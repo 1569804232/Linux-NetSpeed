@@ -1,4 +1,4 @@
-# Linux-NetSpeed
+# Linux-NetSpeed  / BBR原版/魔改/plus/锐速四合一脚本linux加速脚本
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/1569804232/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
